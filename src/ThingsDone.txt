@@ -1,0 +1,8 @@
+GarageApp v2(Solid Version)
+
+UPDATES:
+1. Organized the abstract classes and added some features
+2. Added the lambda-based functions for filtering objects 
+3. Added the Logger in the GarageApp and used it in the rest of the program
+4. Solved some problems regarding the Address class
+5.
